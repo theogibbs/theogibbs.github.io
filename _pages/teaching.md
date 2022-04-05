@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-======
 * August 2020 - Present: QCB Virtual Open House Organizer, Princeton University
   * Organized the first (and now annual) virtual QCB open house with a team of graduate students
   * Created to recruit applicants from non-traditional and under-represented backgrounds

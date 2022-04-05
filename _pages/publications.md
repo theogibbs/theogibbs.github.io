@@ -22,6 +22,6 @@ Published Work
 
 * Levine, J., Levine, J., Gibbs, T. & Pacala, S. [Competition for water and species coexistence in phenologically structured annual plant communities.](https://onlinelibrary.wiley.com/doi/10.1111/ele.13990) Ecology Letters (2022).
 
-* D’Andrea, R.*, Gibbs, T.* & O’Dwyer, J. [Emergent neutrality in consumer-resource dynamics.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008102) PLoS Computational Biology (2020). (* denotes equal contribution).
+* D’Andrea, R.\*, Gibbs, T.\* & O’Dwyer, J. [Emergent neutrality in consumer-resource dynamics.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008102) PLoS Computational Biology (2020). (\* denotes equal contribution).
 
 * Gibbs, T., Grilli, J., Rogers, T., & Allesina, S. [Effect of population abundances on the stability of large random ecosystems.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.022410) Physical Review E (2018).

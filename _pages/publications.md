@@ -18,7 +18,7 @@ resources. In Review at PLoS Computational Biology. [Pre-print (bioRxiv).](https
 Published Work
 ====
 
-* Yamamichi, M., Gibbs, T., & Levine, J. [Evolutionary rescue of coexistence theory.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14078) Ecology Letters (2022).
+* Yamamichi, M., Gibbs, T., & Levine, J. [Integrating eco-evolutionary dynamics and modern coexistence theory.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14078) Ecology Letters (2022).
 
 * Levine, J., Levine, J., Gibbs, T. & Pacala, S. [Competition for water and species coexistence in phenologically structured annual plant communities.](https://onlinelibrary.wiley.com/doi/10.1111/ele.13990) Ecology Letters (2022).
 

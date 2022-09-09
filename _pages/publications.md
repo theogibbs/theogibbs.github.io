@@ -12,11 +12,11 @@ Preprints and Submitted Work
 
 * Gibbs, T., Levin, S. & Levine, J. Coexistence in diverse communities with higher-order interactions. [Pre-print (bioRxiv).](https://doi.org/10.1101/2022.03.04.483022)
 
-* Gibbs, T., Zhang, Y., Miller, Z. & O’Dwyer, J. Stability criteria for the consumption and exchange of essential
-resources. In Review at PLoS Computational Biology. [Pre-print (bioRxiv).](https://doi.org/10.1101/2021.11.24.469922)
-
 Published Work
 ====
+
+* Gibbs, T., Zhang, Y., Miller, Z. & O’Dwyer, J. [Stability criteria for the consumption and exchange of essential
+resources.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010521) PLoS Computational Biology (2022).
 
 * Yamamichi, M., Gibbs, T., & Levine, J. [Integrating eco-evolutionary dynamics and modern coexistence theory.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14078) Ecology Letters (2022).
 

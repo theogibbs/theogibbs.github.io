@@ -7,13 +7,13 @@ author_profile: true
 
 Please check out the most up-to-date list of my publications on my [Google Scholar page](https://scholar.google.com/citations?user=XEGAFg0AAAAJ&hl=en)!
 
-Preprints and Submitted Work
+Preprints
 ====
-
-* Gibbs, T., Levin, S. & Levine, J. Coexistence in diverse communities with higher-order interactions. [Pre-print (bioRxiv).](https://doi.org/10.1101/2022.03.04.483022)
 
 Published Work
 ====
+
+* Gibbs, T., Levin, S. & Levine, J. [Coexistence in diverse communities with higher-order interactions.](https://www.pnas.org/doi/10.1073/pnas.2205063119) Proceedings of the National Academy of Sciences (2022).
 
 * Gibbs, T., Zhang, Y., Miller, Z. & O’Dwyer, J. [Stability criteria for the consumption and exchange of essential
 resources.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010521) PLoS Computational Biology (2022).

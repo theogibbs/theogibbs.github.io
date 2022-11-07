@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please check out my full CV [here](https://theogibbs.github.io/files/GibbsCVApril2022.pdf).
+Please check out my full CV [here](https://theogibbs.github.io/files/GibbsCVNov2022.pdf).
 
 Education
 ======

@@ -10,6 +10,8 @@ Please check out the most up-to-date list of my publications on my [Google Schol
 Preprints
 ====
 
+* Gibbs, T., Gellner, G., Levin, S., McCann, K., Hastings, A., & Levine, J. [Can higher-order interactions resolve the species coexistence paradox?]([https://www.biorxiv.org/content/10.1101/2023.06.19.545649v1.abstract]) bioRxiv (2023).
+
 Published Work
 ====
 

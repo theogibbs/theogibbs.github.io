@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics with Honors, University of Chicago, 2018
 * M.A. in Quantitative and Computational Biology, Princeton University, 2021
-* Ph.D in Quantitative and Computational Biology, Princeton University, 2024 (expected)
+* Ph.D in Quantitative and Computational Biology, Princeton University, 2025 (expected)
 
 Work Experience
 ======

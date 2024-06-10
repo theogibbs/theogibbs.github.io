@@ -11,7 +11,7 @@ Preprints
 ====
 
 * Gibbs, T., Levine, J. & Turcotte, M. [Competitor-induced plasticity modifies the interactions and predicted competitive outcomes between annual plants](https://www.biorxiv.org/content/10.1101/2024.06.06.597843v1) bioRxiv (2024).
-* 
+  
 * Gibbs, T., Gellner, G., Levin, S., McCann, K., Hastings, A., & Levine, J. [Can higher-order interactions resolve the species coexistence paradox?](https://www.biorxiv.org/content/10.1101/2023.06.19.545649v1.abstract) bioRxiv (2023).
 
 Published Work

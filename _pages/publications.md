@@ -15,7 +15,7 @@ Preprints
 Published Work
 ====
 
-* Gibbs, T., Gellner, G., Levin, S., McCann, K., Hastings, A., & Levine, J. [When can higher-order interactions produce stable coexistence?](https://onlinelibrary.wiley.com/doi/10.1111/ele.14458) bioRxiv (2024).
+* Gibbs, T., Gellner, G., Levin, S., McCann, K., Hastings, A., & Levine, J. [When can higher-order interactions produce stable coexistence?](https://onlinelibrary.wiley.com/doi/10.1111/ele.14458) Ecology Letters (2024).
 
 * Gibbs, T., Levin, S. & Levine, J. [Coexistence in diverse communities with higher-order interactions.](https://www.pnas.org/doi/10.1073/pnas.2205063119) Proceedings of the National Academy of Sciences (2022).
 

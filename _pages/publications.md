@@ -10,7 +10,7 @@ Please check out the most up-to-date list of my publications on my [Google Schol
 Preprints
 ====
 
-* Gibbs, T., Levine, J. & Turcotte, M. [Competitor-induced plasticity modifies the interactions and predicted competitive outcomes between annual plants](https://www.biorxiv.org/content/10.1101/2024.06.06.597843v1) bioRxiv (2024).
+* Gibbs, T., Levine, J. & Turcotte, M. [Competitor-induced plasticity modifies the interactions and predicted competitive outcomes between annual plants.](https://www.biorxiv.org/content/10.1101/2024.06.06.597843v1) bioRxiv (2024).
 
 Published Work
 ====

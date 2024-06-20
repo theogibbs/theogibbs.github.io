@@ -11,11 +11,11 @@ Preprints
 ====
 
 * Gibbs, T., Levine, J. & Turcotte, M. [Competitor-induced plasticity modifies the interactions and predicted competitive outcomes between annual plants](https://www.biorxiv.org/content/10.1101/2024.06.06.597843v1) bioRxiv (2024).
-  
-* Gibbs, T., Gellner, G., Levin, S., McCann, K., Hastings, A., & Levine, J. [Can higher-order interactions resolve the species coexistence paradox?](https://www.biorxiv.org/content/10.1101/2023.06.19.545649v1.abstract) bioRxiv (2023).
 
 Published Work
 ====
+
+* Gibbs, T., Gellner, G., Levin, S., McCann, K., Hastings, A., & Levine, J. [When can higher-order interactions produce stable coexistence?](https://onlinelibrary.wiley.com/doi/10.1111/ele.14458) bioRxiv (2024).
 
 * Gibbs, T., Levin, S. & Levine, J. [Coexistence in diverse communities with higher-order interactions.](https://www.pnas.org/doi/10.1073/pnas.2205063119) Proceedings of the National Academy of Sciences (2022).
 

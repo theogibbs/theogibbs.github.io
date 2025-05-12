@@ -12,10 +12,10 @@ Preprints
 
 * Gibbs, T., Dahlin, K., Brennan, J., Silveira, C.\* & McManus, L.\* [Coexistence of bacteria with a competition-colonization tradeoff on a dynamic coral host.](https://www.biorxiv.org/content/10.1101/2024.09.15.612558v1) (2024). (\* denotes equal contribution).
 
-* Gibbs, T., Levine, J. & Turcotte, M. [Competitor-induced plasticity modifies the interactions and predicted competitive outcomes between annual plants.](https://www.biorxiv.org/content/10.1101/2024.06.06.597843v1) bioRxiv (2024).
-
 Published Work
 ====
+
+* Gibbs, T., Levine, J. & Turcotte, M. [Competitor-induced plasticity modifies the interactions and predicted competitive outcomes between annual plants.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70085) Ecology (2025).
 
 * Gibbs, T., Gellner, G., Levin, S., McCann, K., Hastings, A., & Levine, J. [When can higher-order interactions produce stable coexistence?](https://onlinelibrary.wiley.com/doi/10.1111/ele.14458) Ecology Letters (2024).
 

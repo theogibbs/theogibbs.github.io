@@ -12,7 +12,7 @@ Preprints
 
 * Gibbs, T.\*, Gold, Z.\*, Oyler, H., Levine, J. & Kraft, N. [Spatial clustering reveals the impact of higher-order interactions in a diverse annual plant community.](https://www.biorxiv.org/content/10.1101/2025.07.14.664706v1.abstract) (2025). (\* denotes equal contribution).
 
-* Gibbs, T.\*, Mazzarisi, O.\*, Fant, L., An, R., Grilli, J., Barab&aacute;s, G. &dagger;, & Song, C. &dagger; [Label invariance: a guiding principle for ecological models.](https://www.biorxiv.org/content/10.1101/2025.07.15.664968v1) (2025). (\* and &dagger denote equal contribution).
+* Gibbs, T.\*, Mazzarisi, O.\*, Fant, L., An, R., Grilli, J., Barab&aacute;s, G. &dagger;, & Song, C. &dagger; [Label invariance: a guiding principle for ecological models.](https://www.biorxiv.org/content/10.1101/2025.07.15.664968v1) (2025). (\* and &dagger; denote equal contribution).
   
 * Gibbs, T., Dahlin, K., Brennan, J., Silveira, C.\* & McManus, L.\* [Coexistence of bacteria with a competition-colonization tradeoff on a dynamic coral host.](https://www.biorxiv.org/content/10.1101/2024.09.15.612558v1) (2024). (\* denotes equal contribution).
 

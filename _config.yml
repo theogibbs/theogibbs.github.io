@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Theo Gibbs"
 title_separator          : "-"
 name                     : &name "Theo Gibbs"
 description              : &description "PhD Candidate in Quantitative and Computational Biology"

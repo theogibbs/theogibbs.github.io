@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theo Gibbs"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Theo Gibbs"
 description              : &description "PhD Candidate in Quantitative and Computational Biology"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "About"
+  name             : "Theo Gibbs"
   avatar           : "ColorHeadshot.jpeg"
   bio              : "Schmidt Science Fellow and Postdoctoral Researcher"
   location         : "New York City, NY"

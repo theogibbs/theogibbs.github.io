@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Theo Gibbs"
   avatar           : "ColorHeadshot.jpeg"
-  bio              : "PhD Candidate in Quantitative and Computational Biology"
-  location         : "Princeton, NJ"
+  bio              : "Schmidt Science Fellow and Postdoctoral Researcher"
+  location         : "New York City, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=XEGAFg0AAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "GibbsTheo"
+  twitter          :
   vine             :
   weibo            :
   xing             :

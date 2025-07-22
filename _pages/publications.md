@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please check out the most up-to-date list of my publications on my [Google Scholar page](https://scholar.google.com/citations?user=XEGAFg0AAAAJ&hl=en)!
-
 Preprints
 ====
 
@@ -35,3 +33,6 @@ resources.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pc
 * D’Andrea, R.\*, Gibbs, T.\* & O’Dwyer, J. [Emergent neutrality in consumer-resource dynamics.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008102) PLoS Computational Biology (2020). (\* denotes equal contribution).
 
 * Gibbs, T., Grilli, J., Rogers, T., & Allesina, S. [Effect of population abundances on the stability of large random ecosystems.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.022410) Physical Review E (2018).
+
+[Google Scholar page](https://scholar.google.com/citations?user=XEGAFg0AAAAJ&hl=en)
+

@@ -6,7 +6,7 @@ title: ""
 
 <div>
     <div style="float: left; position: relative; top: 0px; top:-20px; padding: 15px">
-    <img style="float: left" position: relative; width = 300 src="ColorHeadshot.jpeg" />
+    <img style="float: left" position: relative; width = 265 src="ColorHeadshot.jpeg" />
     </div>
 
 I am a <a href="https://schmidtsciencefellows.org/">Schmidt Science Fellow</a> and Postdoctoral Researcher in the <a href="https://as.nyu.edu/departments/biology/research/gsb/cgsb.html">Center for Genomics and Systems Biology</a> at New York University in the <a href="https://bergelsonlab.org/">Bergelson Lab</a>. I earned my PhD in <a href="(https://lsi.princeton.edu/qcbgraduate">Quantitative and Computational Biology program</a>

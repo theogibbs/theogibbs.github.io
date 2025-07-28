@@ -18,7 +18,7 @@ website:
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=XEGAFg0AAAAJ&hl=en
       - text: "{{< ai orcid >}}"
-        href: https://orcid.org/0000-0002-8706-6261
+        href: https://orcid.org/0000-0002-1515-8420
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/theogibbs.bsky.social 
 

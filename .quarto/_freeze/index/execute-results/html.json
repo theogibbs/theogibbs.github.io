@@ -1,0 +1,15 @@
+{
+  "hash": "222128030cb06d87fe15dba88963dab8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\n---\n\n\n\n\n\n\n::: columns\n::: {.column width=\"40%\"}\n\n![](ColorHeadshot.jpeg){width=250}\n:::\n\n::: {.column width=\"60%\"}\n\nCurrently, I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) and Postdoctoral Researcher at New York University in the [Bergelson Lab](https://bergelsonlab.org/). I earned my PhD from the [Quantitative and Computational Biology program](https://lsi.princeton.edu/qcbgraduate) at Princeton University, where I was advised by [Jonathan Levine](https://levine.princeton.edu/) and [Simon Levin](https://slevin.princeton.edu/).\n\nMy research combines theory and experiment to understand how diverse ecological communities stably coexist. I am especially interested in interactions that uniquely emerge in diverse communities, often called higher-order interactions. I conduct experiments with annual plants in the field and microbial strains in the lab. In parallel, I build and analyze theoretical models for how species interactions impact diverse coexistence.\n\n:::\n:::\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

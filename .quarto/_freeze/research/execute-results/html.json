@@ -1,0 +1,17 @@
+{
+  "hash": "7030d9d1387387950f59ee3af2be13f5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Research\"\n---\n\n\n\n\nI'll put my research here\n\nAbout this site\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "research_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

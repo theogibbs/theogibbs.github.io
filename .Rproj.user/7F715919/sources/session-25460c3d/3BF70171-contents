@@ -1,0 +1,77 @@
+---
+title: "Research"
+---
+
+
+---
+
+From the hundreds of tree species in the Amazon rainforest to the thousands of microbes in the soil, species assemble into remarkably diverse communities. At the same time, species have phenotypic differences, and these differences create competitive imbalances that exclude species. It is unclear why, in any given environment, one species does not gain enough of an advantage to outcompete all others. In my research, I combine theory and experiment to understand how diverse communities assemble and stably coexist.
+
+### High-throughput experiments with the *Arabidopsis thaliana* microbiome
+
+```{=html}
+
+<div>
+    <div style="float: left; position: relative; top: 0px; left:-15px; padding: 15px">
+<video autoplay="true" loop="true" muted="true" width="200">
+<source src="robot.mov">     </div>
+
+
+In my postdoctoral research, I am conducting high-throughput experiments with microbial strains present in the the <em>Arabidopsis thaliana</em> microbiome. Using the pipetting robot in the video, I am inoculating host plants with many different combinations of microbial strains to infer their interactions and predict which specie coexist in out-of-fit communities. I am very interested in how the ecological interactions within the phyllosphere microbiome prevent the establishment of pathogenic strains. I also hope to build eco-evolutionary models of the interaction between microbial strains and the plant immune system. In my future work, I plan to use modern techniques in experimental microbiology to study classic ecological research questions in the phyllosphere microbiome. Please check back for some results on this project (hopefully) soon.
+</div>
+
+```
+
+### Theory of higher-order interactions and coexistence
+
+
+```{=html}
+<a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/10.1073/pnas.2205063119">
+<div>
+    <div style="float: right; position: relative; top: 0px; right:-15px; padding: 15px">
+    <img style="float: right" position: relative; width = 250 src="hoi.png" />
+    </div>
+</a>
+
+Research focused on understanding coexistence in diverse communities has generally made the simplifying assumption that interactions operate only between pairs of species. One alternative possibility, however, is that the interactions that are only possible when there are more than a few species in a community are precisely those that sustain natural diversity. Despite their potential importance, ecologists lack clear theoretical expectations for the effect of higher-order interactions because of the mathematical complexity of systems with many species and different types of interactions. <a href="https://www.pnas.org/doi/10.1073/pnas.2205063119">In one chapter of my PhD,</a> I found that, unless higher-order interactions have nonrandom relationships to the underlying pairwise interactions, they are unlikely to generate widespread coexistence. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.14458">In another chapter,</a> I used random matrix theory to determine which special structures among the higher-order interactions successfully stabilize diverse communities. Looking forward, I am very interested in how higher-order interactions emerge from underlying mechanisms.
+</div>
+
+```
+
+
+### Detecting higher-order interactions among annual plants
+
+
+```{=html}
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.biorxiv.org/content/10.1101/2025.07.14.664706v1.abstract">
+<div>
+    <div style="float: left; position: relative; top: 0px; left:-15px; padding: 15px">
+    <img style="float: left" position: relative; width = 300 src="split.png" />
+    </div>
+</a>
+
+In addition to my theoretical work on higher-order interactions, I am also interested in measuring them experimentally. <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70085">In experiments with Swiss annual plants,</a> I found that species interactions became more competitive when individuals plastically responded to early-season competition, revealing a potential mechanism for higher-order interactions.
+The most direct test for the presence of higher-order interactions in nature, in which the growth rates of focal species are measured as a function of two varying competitor densities, is both remarkably labor intensive and statistically challenging. To circumvent these problems, I designed a novel experimental approach with Californian annual plants in which the strength of higher-order interactions is manipulated by planting competitors in differing spatial arrangements. I found that spatial clustering modified the strength of competition among these species, <a href="https://www.biorxiv.org/content/10.1101/2025.07.14.664706v1.abstract">revealing the presence of higher-order interactions.</a> I am currently working on new theory that analyzes how higher-order interactions and spatial structure mutually influence one another.
+</div>
+
+```
+
+
+
+### Theoretical microbial ecology
+
+```{=html}
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.biorxiv.org/content/10.1101/2024.09.15.612558v1">
+<div>
+    <div style="float: right; position: relative; top: 0px; right:-15px; padding: 15px">
+    <img style="float: right" position: relative; width = 250 src="Background.jpeg" />
+    </div>
+</a>
+
+Working with <a href="https://publish.illinois.edu/odwyerlab/">Professor James O'Dwyer</a>, I have analyzed how the biology of microbial communities (like <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008102">competition for resources</a> or <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010521">the exchange of nutrients</a>) produce macroecological patterns (like species abundances consistent with neutral theory or interaction network structures) More recently, I have been intersted in how the feedback between microbial community composition and the population biology of host organisms might change our classic understanding of coexistence. <a href="https://www.biorxiv.org/content/10.1101/2024.09.15.612558v1">For example, I have investigated</a> how bacterial coexistence mediated by a competition-colonization tradeoff is modified when they compete for a dynamic biological host.
+</div>
+
+```
+

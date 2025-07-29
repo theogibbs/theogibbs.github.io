@@ -5,26 +5,26 @@ toc: false # disable table of contents for this page (if applicable)
 about: 
   template: jolla 
   image-shape: rectangle
-  image-width: 17em
+  image-width: 15em
   links: # create buttons
-    - text: Google Scholar
+    - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=XEGAFg0AAAAJ&hl=en
       target: _blank # opens link in a new browser tab
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/theogibbs
-      target: _blank 
+      target: _blank
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/theogibbs.bsky.social 
+      target: _blank # opens link in a new browser tab
     - text: "Email: tgibbs@princeton.edu"
       href: mailto:tgibbs@princeton.edu
 ---
 
 ```{=html}
-<left>
-
+<div class="left-aligned-text">
 I am a <a href="https://schmidtsciencefellows.org/">Schmidt Science Fellow</a> and Postdoctoral Researcher in the <a href="https://as.nyu.edu/departments/biology/research/gsb/cgsb.html">Center for Genomics and Systems Biology</a> at New York University in the <a href="https://bergelsonlab.org/">Bergelson Lab</a>. I earned my PhD in <a href="(https://lsi.princeton.edu/qcbgraduate">Quantitative and Computational Biology program</a>
-at Princeton University, where I was advised by <a href="https://levine.princeton.edu/">Jonathan Levine</a> and <a href="https://slevin.princeton.edu/">Simon Levin</a>. <br>
-
-My research combines theory and experiment to understand how diverse ecological communities stably coexist. I am especially interested in interactions that uniquely emerge in diverse communities, often called higher-order interactions. I conduct experiments with annual plants in the field and microbial strains in the lab. In parallel, I build and analyze theoretical models for how species interactions impact diverse coexistence. Check out my <a href="https://theogibbs.github.io/research.html">research</a> or <a href="https://theogibbs.github.io/publications.html">publications</a> for more details.
-</left>
+at Princeton University, where I was advised by <a href="https://levine.princeton.edu/">Jonathan Levine</a> and <a href="https://slevin.princeton.edu/">Simon Levin</a>. My research combines theory and experiment to understand how diverse ecological communities stably coexist. Check out my <a href="https://theogibbs.github.io/research.html">research</a> or <a href="https://theogibbs.github.io/publications.html">publications</a> for more details.
 </div>
 
 ```

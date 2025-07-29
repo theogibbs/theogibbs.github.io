@@ -29,9 +29,10 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: false
 

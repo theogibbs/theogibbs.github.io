@@ -19,5 +19,8 @@
   },
   "outreach.qmd": {
     "outreach.html": "ab508365"
+  },
+  "theme_dark.scss.qmd": {
+    "theme_dark.scss.html": "a1a54212"
   }
 }

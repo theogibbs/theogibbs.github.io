@@ -3,7 +3,7 @@
     "path": "~/Documents/theogibbs/CV.qmd",
     "project_path": "CV.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "712947016",
     "contents": "",
     "dirty": false,
     "created": 1753675597888.0,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "115:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753714263,
+    "lastKnownWriteTime": 1753752044,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753714263476,
+    "last_content_update": 1753752044358,
     "read_only": false,
     "read_only_alternatives": []
 }

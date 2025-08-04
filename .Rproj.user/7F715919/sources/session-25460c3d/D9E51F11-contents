@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  render:
-        - google7f8d3a44ad2ea042.html # Add your HTML file here
 
 website:
   title: "Theo Gibbs"
@@ -23,11 +21,9 @@ website:
         href: https://orcid.org/0000-0002-1515-8420
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/theogibbs.bsky.social 
-
     tools:
       - icon: github
         href: https://github.com/theogibbs
-        
 
 format:
   html:

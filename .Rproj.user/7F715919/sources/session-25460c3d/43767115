@@ -3,7 +3,7 @@
     "path": "~/Documents/theogibbs/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3831808388",
     "contents": "",
     "dirty": false,
     "created": 1753669202153.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "73:0",
-        "cursorPosition": "28,55",
-        "scrollLine": "15"
+        "cursorPosition": "30,100",
+        "scrollLine": "20"
     },
     "folds": "",
-    "lastKnownWriteTime": 1753748852,
+    "lastKnownWriteTime": 1754321719,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1753748852449,
+    "last_content_update": 1754321719180,
     "read_only": false,
     "read_only_alternatives": []
 }

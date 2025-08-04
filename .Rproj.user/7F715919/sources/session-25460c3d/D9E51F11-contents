@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  render:
+        - google7f8d3a44ad2ea042.html # Add your HTML file here
 
 website:
   title: "Theo Gibbs"

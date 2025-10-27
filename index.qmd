@@ -20,8 +20,8 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1515-8420
       target: _blank # opens link in a new browser tab
-    - text: "Email: tgibbs@princeton.edu"
-      href: mailto:tgibbs@princeton.edu
+    - text: "Email: tg3028@nyu.edu"
+      href: mailto:tg3028@nyu.edu
 ---
 
 I am a <a href="https://schmidtsciencefellows.org/">Schmidt Science Fellow</a> and Postdoctoral Researcher in the <a href="https://as.nyu.edu/departments/biology/research/gsb/cgsb.html">Center for Genomics and Systems Biology</a> at New York University in the <a href="https://bergelsonlab.org/">Bergelson Lab</a>. I earned my PhD in <a href="(https://lsi.princeton.edu/qcbgraduate">Quantitative and Computational Biology program</a>

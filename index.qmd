@@ -9,17 +9,17 @@ about:
   links: # create buttons
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=XEGAFg0AAAAJ&hl=en
-      target: _blank # opens link in a new browser tab
+#      target: _blank # opens link in a new browser tab
     - icon: github
       text: GitHub
       href: https://github.com/theogibbs
-      target: _blank
+#      target: _blank
     - text: "{{< fa brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/theogibbs.bsky.social 
-      target: _blank # opens link in a new browser tab
+#      target: _blank # opens link in a new browser tab
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1515-8420
-      target: _blank # opens link in a new browser tab
+#      target: _blank # opens link in a new browser tab
     - text: "Email: tg3028@nyu.edu"
       href: mailto:tg3028@nyu.edu
 ---

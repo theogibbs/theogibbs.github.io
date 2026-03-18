@@ -12,7 +12,7 @@ If you have trouble accessing any of them or would like a copy, please feel free
 
 ### Published Work
 
--   Märkle, H., Gibbs, T. \& Bergelson, J. [Evolutionary implications of plant host interactions with a generalist pathogen.](https://www.biorxiv.org/content/10.1101/2025.05.05.652313v2.abstract) In press at Proceedings of the Royal Society B (2026).
+-   Märkle, H., Gibbs, T. \& Bergelson, J. [Evolutionary implications of plant host interactions with a generalist pathogen.](https://royalsocietypublishing.org/rspb/article/293/2067/20253194/480974/Evolutionary-implications-of-plant-host) Proceedings of the Royal Society B (2026).
 
 
 -   Gibbs, T.\*, Gold, Z.\*, Oyler, H., Levine, J.† & Kraft, N. † [Spatial clustering modifies competition in a diverse annual plant community.](https://www.pnas.org/doi/10.1073/pnas.2516084123) Proceedings of the National Academy of Sciences (2026). (\* and  † denote equal contribution).

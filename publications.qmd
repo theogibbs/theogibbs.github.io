@@ -8,9 +8,9 @@ If you have trouble accessing any of them or would like a copy, please feel free
 
 -   Gibbs, T.\*, Mazzarisi, O.\*, Fant, L., An, R., Grilli, J., Barabás, G. †, & Song, C. † [Label invariance: a guiding principle for ecological models.](https://www.biorxiv.org/content/10.1101/2025.07.15.664968v1) (2025). (\* and † denote equal contribution).
 
--   Gibbs, T., Dahlin, K., Brennan, J., Silveira, C.\* & McManus, L.\* [Coexistence of bacteria with a competition-colonization tradeoff on a dynamic coral host.](https://www.biorxiv.org/content/10.1101/2024.09.15.612558v1) (2024). (\* denotes equal contribution).
-
 ### Published Work
+
+-   Gibbs, T., Dahlin, K., Brennan, J., Silveira, C.\* & McManus, L.\* [Coexistence of bacteria with a competition-colonization tradeoff on a dynamic coral host.](https://link.springer.com/article/10.1007/s12080-026-00637-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260512&utm_content=10.1007/s12080-026-00637-y) Theoretical Ecology (2026). (\* denotes equal contribution).
 
 -   Märkle, H., Gibbs, T. \& Bergelson, J. [Evolutionary implications of plant host interactions with a generalist pathogen.](https://royalsocietypublishing.org/rspb/article/293/2067/20253194/480974/Evolutionary-implications-of-plant-host) Proceedings of the Royal Society B (2026).
 

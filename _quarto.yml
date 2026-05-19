@@ -33,6 +33,7 @@ format:
       dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: false
+    include-in-header: google-verify.html
 
 editor: visual
 
